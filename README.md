@@ -34,7 +34,25 @@
 | **Database**  | MySQL                                  |
 
 ---
+## 📁 Folder Structure
 
+```
+SmartRESUMEscan/
+├── App.py
+├── Resume_Parser/
+│   └── parser.py
+├── Models/
+│   └── role_predictor.pkl
+├── Templates/
+│   └── custom_css.css
+├── Database/
+│   └── connection.py
+├── utils.py
+├── requirements.txt
+├── README.md
+```
+
+---
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
@@ -86,56 +104,3 @@ streamlit run App.py
   ![Analysis Result](link_to_image2)
 
 ---
-
-## 📁 Folder Structure
-
-```
-SmartRESUMEscan/
-├── App.py
-├── Resume_Parser/
-│   └── parser.py
-├── Models/
-│   └── role_predictor.pkl
-├── Templates/
-│   └── custom_css.css
-├── Database/
-│   └── connection.py
-├── utils.py
-├── requirements.txt
-├── README.md
-```
-
----
-
-## 🙋‍♀️ About Me
-
-Hi, I'm **Tejaswini**, a final year Computer Science student at IIT Dharwad.
-This project is part of my capstone work, combining my interests in NLP, AI, and web development.
-
-📬 Email: [your.email@example.com](mailto:your.email@example.com)
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
----
-
-## 🏁 Future Enhancements
-
-* 🤝 Recruiter dashboard to filter top candidates
-* 🧾 Resume auto-correction with GPT
-* 🔍 JD comparison and ATS compatibility scoring
-
----
-
-## 📜 License
-
-MIT License
-
----
-
-*Crafted with ❤️ and Python by Tejaswini*
-
-```
-
----
-
-Let me know if you'd like a banner image or help uploading the final project to GitHub!
-```
