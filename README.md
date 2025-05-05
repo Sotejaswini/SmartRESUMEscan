@@ -1,9 +1,4 @@
-Here's a final, well-structured `README.md` file that sums up your entire **SmartRESUMEscan** project. You can copy this as-is and update image or GitHub links as needed.
-
----
-
-````markdown
-# 🚀 SmartRESUMEscan
+# SmartRESUMEscan
 
 *An AI-powered resume analysis and enhancement tool built with NLP and data science.*
 
