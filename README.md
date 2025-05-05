@@ -91,14 +91,9 @@ streamlit run App.py
 
 ---
 
-## 🖼️ Sample Screenshots
+## Screenshots
 
-> *(Add actual images in your repo and replace the links below)*
-
-* 📂 Upload Interface
-  ![Upload Interface](link_to_image1)
-
-* 📊 Resume Score and Skill Match
-  ![Analysis Result](link_to_image2)
-
+* 📊 Skill Match and Resume Score 
+![Screenshot](https://github.com/Sotejaswini/SmartRESUMEscan/blob/main/screenshots/p1.png?raw=true)
+![Screenshot](https://github.com/Sotejaswini/SmartRESUMEscan/blob/main/screenshots/p2.png?raw=true)
 ---
