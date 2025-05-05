@@ -3,7 +3,7 @@
 *An AI-powered resume analysis and enhancement tool built with NLP and data science.*
 
 ![SmartRESUMEscan Banner](link_to_your_banner_image)
-
+![Screenshot](https://github.com/Sotejaswini/SmartRESUMEscan/blob/main/screenshots/admin/1-main-screen.png.png?raw=true)
 ---
 
 ## 🔍 Overview
