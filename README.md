@@ -1,4 +1,4 @@
-# SmartRESUMEscan
+# SmartRESUMEScan
 
 *An AI-powered resume analysis and enhancement tool built with NLP for modern tech roles..*
 ![Screenshot](https://github.com/Sotejaswini/SmartRESUMEscan/blob/main/screenshots/main.png?raw=true)
@@ -6,7 +6,7 @@
 
 ## 🔍 Overview
 
-**SmartRESUMEscan** helps job seekers evaluate and enhance their resumes by leveraging natural language processing. It analyzes resume content, predicts potential job roles, provides keyword insights, and recommends improvements—streamlining the application process and boosting chances of success.
+**SmartRESUMEScan** helps job seekers evaluate and enhance their resumes by leveraging natural language processing. It analyzes resume content, predicts potential job roles, provides keyword insights, and recommends improvements—streamlining the application process and boosting chances of success.
 
 ---
 
