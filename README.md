@@ -26,7 +26,7 @@
 | Area          | Tools / Libraries                     |
 |---------------|----------------------------------------|
 | **Frontend**  | Streamlit                              |
-| **Backend**   | Python 3.10.12                         |
+| **Backend**   | Python 3.9.2                         |
 | **Libraries** | pandas, pyresparser, pdfminer3, NLTK, spaCy, matplotlib, Plotly |
 | **NLP**       | spaCy (en_core_web_sm), NLTK, clustering |
 | **Database**  | MySQL                                  |
