@@ -72,10 +72,13 @@ cd SmartRESUMEscan
 ### 2. Set Up Virtual Environment
 
 ```bash
-python -m venv venv
+# To have python3.8 installed
+python3.8 -m venv venv38
+sudo apt update
+sudo apt install python3.8 python3.8-venv python3.8-distutils
+python3.8 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
-
 ### 3. Install Requirements
 
 ```bash
@@ -98,9 +101,6 @@ CREATE DATABASE cv;
 ```bash
 streamlit run App.py
 ```
-
----
-
 ## Screenshots
 
 * 📊 Skill Match and Resume Score 
