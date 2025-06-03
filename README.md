@@ -51,6 +51,7 @@ SmartRESUMEscan/
 │
 └── README.md
 
+```
 markdown
 Copy
 Edit
