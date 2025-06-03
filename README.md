@@ -36,20 +36,36 @@
 
 ```
 SmartRESUMEscan/
-├── App.py
-├── Resume_Parser/
-│   └── parser.py
-├── Models/
-│   └── role_predictor.pkl
-├── Templates/
-│   └── custom_css.css
-├── Database/
-│   └── connection.py
-├── utils.py
-├── requirements.txt
-├── README.md
-```
+├── App/
+│ ├── Logo/
+│ ├── Uploaded_Resumes/
+│ ├── pycache/
+│ ├── App.py
+│ ├── Courses.py
+│ └── requirements.txt
+│
+├── pyresparser/
+│ ├── resume_parser.py
+│
+├── screenshots/
+│
+└── README.md
 
+markdown
+Copy
+Edit
+
+### 📄 Description
+
+- **App/**: Main application logic and UI handling.
+  - **Logo/**: Contains application logos or icons.
+  - **Uploaded_Resumes/**: Stores user-uploaded resumes for analysis.
+  - **App.py**: Entry point of the application.
+  - **Courses.py**: Recommends relevant courses based on resume content.
+  - **requirements.txt**: Lists dependencies to run the app.
+- **pyresparser/**: Contains the resume parsing logic.
+  - **resume_parser.py**: Parses and extracts details from resumes.
+- **screenshots/**: Holds UI or feature demonstration images.
 ---
 ## ⚙️ Setup Instructions
 
