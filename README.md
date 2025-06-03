@@ -88,12 +88,15 @@ python -m spacy download en_core_web_sm
 ```
 
 ### 4. Set Up MySQL Database
-
+```bash
+mysql -u root -p
+```
 * Create a MySQL database named `cv`.
 * Update `App.py` with your DB credentials.
 
 ```sql
 CREATE DATABASE cv;
+exit;
 ```
 
 ### 5. Run the App
