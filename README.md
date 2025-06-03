@@ -4,21 +4,18 @@
 ![Screenshot](https://github.com/Sotejaswini/SmartRESUMEscan/blob/main/screenshots/main.png?raw=true)
 ---
 
-## 🔍 Overview
+##  Overview
 
 **SmartRESUMEScan** helps job seekers evaluate and enhance their resumes by leveraging natural language processing. It analyzes resume content, predicts potential job roles, provides keyword insights, and recommends improvements—streamlining the application process and boosting chances of success.
 
 ---
-
-## 🎯 Features
-
-- 📄 **Resume Parsing** — Extracts key fields like name, skills, education, and experience.
-- 🧠 **Role Prediction** — Uses clustering to suggest relevant job roles.
-- 🧾 **Keyword Analysis** — Highlights missing or redundant keywords.
-- 🧮 **Scoring Engine** — Gives a score based on relevance, skill match, and formatting.
-- 📝 **Smart Suggestions** — Offers actionable recommendations for improvement.
-- 📊 **Dashboard** — Visualizes skill match, category-wise score, and resume insights.
-
+## Features
+- **Resume Parsing** — Extracts key fields like name, skills, education, and experience.
+-  **Role Prediction** — Uses clustering to suggest relevant job roles.
+- **Keyword Analysis** — Highlights missing or redundant keywords.
+-  **Scoring Engine** — Gives a score based on relevance, skill match, and formatting.
+-  **Smart Suggestions** — Offers actionable recommendations for improvement.
+- **Dashboard** — Visualizes skill match, category-wise score, and resume insights.
 ---
 
 ## 🛠️ Tech Stack
@@ -50,13 +47,8 @@ SmartRESUMEscan/
 ├── screenshots/
 │
 └── README.md
-
 ```
-markdown
-Copy
-Edit
-
-### 📄 Description
+### Description
 
 - **App/**: Main application logic and UI handling.
   - **Logo/**: Contains application logos or icons.
@@ -68,7 +60,7 @@ Edit
   - **resume_parser.py**: Parses and extracts details from resumes.
 - **screenshots/**: Holds UI or feature demonstration images.
 ---
-## ⚙️ Setup Instructions
+### Setup Instructions
 
 ### 1. Clone the Repository
 
